@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+    max-width: 1024px;
+    margin: auto;
+    font-family: "Roboto", "Noto Sans KR", "Nanum Gothic";
+    line-height: 1.8rem;
+}
+
+h1 {
+    font-size: 2rem;
+    letter-spacing: 0.1rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}
+
+h2 {
+    font-size: 1.8rem;
+    padding-top: 0.5rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+    padding-top: 0.5rem;
+}
+
+header {
+    font-size: 1.1rem;
+    margin: auto 2rem;
+}
+
+section {
+    margin: auto 1rem 4rem 2rem;
+}
+
+p {
+    margin: 0.2rem auto;
+}
+
+hr {
+    border: none;
+    background-color: lightgray;
+    height: 1px;
+}
